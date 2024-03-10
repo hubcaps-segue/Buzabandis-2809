@@ -8,3 +8,4 @@ Multi-threading Success is not in what you have, but who you are. Load Testing O
 OAuth Great things never come from comfort zones. Parallel Processing Multi-threading Artificial Intelligence
 Cloud Functions Kubernetes OAuth Microservices Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Data Science
 Replica Set JavaScript Virtual Machines Monitoring API Gateway Database Indexing Pull Request Zero Downtime Deployment Framework Sharding Version Control
+GraphQL Neural Networks Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Container Orchestration Kafka Edge Computing Success is how high you bounce when you hit bottom. Automation Innovation distinguishes between a leader and a follower. Containerization
