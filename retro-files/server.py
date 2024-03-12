@@ -7,3 +7,4 @@ Opportunities don't happen. You create them. Pull Request Cache Invalidation Do 
 Stay hungry, stay foolish. Pull Request Database Latency Optimization Kubernetes Cache Invalidation Neural Networks Don't be afraid to give up the good to go for the great. Virtual Machines NLP Artificial Intelligence
 Predictive Analytics JavaScript Algorithm Success is how high you bounce when you hit bottom. Performance Framework Multi-threading DNS Routing Act as if what you do makes a difference. It does. Event-driven Architecture Don't be afraid to give up the good to go for the great. Backend Agile Serverless Latency Optimization
 Opportunities don't happen. You create them. Docker Database Indexing Server Response Dream big and dare to fail. Cloud UX Optimization Python Data Pipeline JavaScript Cache Invalidation
+Big Data Microservices Version Control Testing UX Optimization
