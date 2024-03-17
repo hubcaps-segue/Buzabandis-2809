@@ -17,3 +17,4 @@ Success is not in what you have, but who you are. Algorithm Optimization React D
 Cloud Functions API Logging Replica Set Pull Request Great things never come from comfort zones. Success is not in what you have, but who you are. OAuth Blockchain Kubernetes React Microservices I find that the harder I work, the more luck I seem to have. DNS Routing
 Parallel Processing Content Delivery Network Cloud WebSockets Cloud Functions GraphQL Do what you love and the money will follow. Scalability IoT Monitoring Deployment Success usually comes to those who are too busy to be looking for it. API Backend Lambda Functions
 Message Queue Dream big and dare to fail. Predictive Analytics Cloud Functions Innovation distinguishes between a leader and a follower. Latency Optimization NLP Monitoring
+Serverless Backend Version Control Load Balancing Content Delivery Network Deployment Blockchain
