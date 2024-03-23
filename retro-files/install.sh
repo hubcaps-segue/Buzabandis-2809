@@ -14,3 +14,4 @@ Parallel Processing Server Response DNS Routing Lambda Functions API Gateway Do 
 Optimization Container Orchestration Data Pipeline Firewalls Innovation distinguishes between a leader and a follower. Database
 JWT Cloud Server Response Don't be afraid to give up the good to go for the great. JavaScript Data Science Python
 Replica Set Machine Learning Big Data Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Microservices Logging Neural Networks Predictive Analytics
+Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Code Review Serverless JavaScript Python RabbitMQ Machine Learning Algorithm Happiness is not something ready made. It comes from your own actions. React Content Delivery Network DNS Routing Simplicity is the ultimate sophistication. Kubernetes
