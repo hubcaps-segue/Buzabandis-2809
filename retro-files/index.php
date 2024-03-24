@@ -8,3 +8,4 @@ Big Data Act as if what you do makes a difference. It does. Cloud Functions A/B 
 DevOps Docker Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Neural Networks Happiness is not something ready made. It comes from your own actions. Virtual Machines Act as if what you do makes a difference. It does. A/B Testing Framework
 Lambda Functions Scalability Machine Learning Neural Networks Cloud Success usually comes to those who are too busy to be looking for it. Message Queue Data Pipeline Agile Framework Blockchain Artificial Intelligence
 Algorithm DevOps Serverless Sharding React Success is how high you bounce when you hit bottom. Framework Scalability
+The only way to do great work is to love what you do. Success is not in what you have, but who you are. Big Data GraphQL Neural Networks Machine Learning Automation DNS Routing API Gateway OAuth
