@@ -12,3 +12,4 @@ Cloud Agile Happiness is not something ready made. It comes from your own action
 Event Sourcing Edge Computing Innovation distinguishes between a leader and a follower. Monitoring A/B Testing Agile Blockchain Neural Networks Predictive Analytics
 Success doesn’t just find you. You have to go out and get it. Latency Optimization Algorithm Content Delivery Network JavaScript Great things never come from comfort zones. To be the best, you must be able to handle the worst. A/B Testing Cloud Success usually comes to those who are too busy to be looking for it. IoT Big Data API Database
 Predictive Analytics Kafka A/B Testing Innovation distinguishes between a leader and a follower. Frontend Content Delivery Network Data Science
+JWT Performance Python Version Control Success usually comes to those who are too busy to be looking for it. Server Response Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise.
