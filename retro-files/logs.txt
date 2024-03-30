@@ -12,3 +12,4 @@ A/B Testing RabbitMQ API Distributed Systems Agile Firewalls Performance Testing
 Cloud Event Sourcing Code Review Load Balancing Work hard in silence, let your success be your noise. CI/CD DevOps Testing Great things never come from comfort zones. Automation Innovation distinguishes between a leader and a follower.
 Database Logging Sharding Frontend Zero Downtime Deployment Work hard in silence, let your success be your noise. Scalability Quantum Computing Code Review Performance
 Kafka DNS Routing Framework Version Control Sharding Do what you love and the money will follow. Database Indexing JavaScript
+React To be the best, you must be able to handle the worst. Kafka Artificial Intelligence Happiness is not something ready made. It comes from your own actions. API Gateway Version Control Event Sourcing Code Review OAuth Agile Replica Set DevOps Data Pipeline
