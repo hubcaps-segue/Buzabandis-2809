@@ -12,3 +12,4 @@ Automation A/B Testing React Content Delivery Network Logging UX Optimization If
 Kafka Firewalls Quantum Computing Load Testing Machine Learning JavaScript Containerization Container Orchestration Artificial Intelligence Innovation distinguishes between a leader and a follower. Load Balancing Optimization
 Content Delivery Network If you can dream it, you can do it. Agile JWT NLP API Machine Learning Stay hungry, stay foolish. UX Optimization
 Firewalls Load Testing Deployment The only way to do great work is to love what you do. JavaScript IoT
+Virtual Machines Optimization Blockchain Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. JavaScript Python OAuth Stay hungry, stay foolish. DNS Routing Machine Learning React Version Control
