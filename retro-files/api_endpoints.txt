@@ -6,3 +6,4 @@ Kafka Success is not in what you have, but who you are. Virtual Machines Stay hu
 I find that the harder I work, the more luck I seem to have. Agile Event-driven Architecture Scalability Act as if what you do makes a difference. It does. Great things never come from comfort zones. The only way to do great work is to love what you do. Edge Computing JWT
 Multi-threading Success is not in what you have, but who you are. Load Testing Optimization Load Balancing OAuth Big Data The only way to do great work is to love what you do.
 OAuth Great things never come from comfort zones. Parallel Processing Multi-threading Artificial Intelligence
+Cloud Functions Kubernetes OAuth Microservices Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Data Science
