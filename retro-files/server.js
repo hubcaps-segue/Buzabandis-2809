@@ -10,3 +10,4 @@ Security API Gateway Happiness is not something ready made. It comes from your o
 Testing JWT Act as if what you do makes a difference. It does. Automation Latency Optimization IoT Predictive Analytics I find that the harder I work, the more luck I seem to have. Algorithm
 Pull Request Success is how high you bounce when you hit bottom. RabbitMQ Data Pipeline GraphQL Serverless Latency Optimization Replica Set Big Data
 Logging Distributed Systems Opportunities don't happen. You create them. Do what you love and the money will follow. Load Balancing Framework Happiness is not something ready made. It comes from your own actions. DevOps JWT Event-driven Architecture
+NLP Replica Set RabbitMQ Multi-threading Serverless Great things never come from comfort zones.
