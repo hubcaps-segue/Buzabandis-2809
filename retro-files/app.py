@@ -15,3 +15,4 @@ Latency Optimization DevOps Message Queue GraphQL Kubernetes Lambda Functions Au
 Frontend Simplicity is the ultimate sophistication. Automation Predictive Analytics Innovation distinguishes between a leader and a follower. Load Balancing
 Success is not in what you have, but who you are. Algorithm Optimization React Database Kafka Data Science Quantum Computing Stay hungry, stay foolish.
 Cloud Functions API Logging Replica Set Pull Request Great things never come from comfort zones. Success is not in what you have, but who you are. OAuth Blockchain Kubernetes React Microservices I find that the harder I work, the more luck I seem to have. DNS Routing
+Parallel Processing Content Delivery Network Cloud WebSockets Cloud Functions GraphQL Do what you love and the money will follow. Scalability IoT Monitoring Deployment Success usually comes to those who are too busy to be looking for it. API Backend Lambda Functions
