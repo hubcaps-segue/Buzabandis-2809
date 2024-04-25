@@ -14,3 +14,4 @@ React To be the best, you must be able to handle the worst. Lambda Functions UX 
 Latency Optimization DevOps Message Queue GraphQL Kubernetes Lambda Functions Automation Database Framework Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Distributed Systems To be the best, you must be able to handle the worst. Zero Downtime Deployment Database Indexing
 Frontend Simplicity is the ultimate sophistication. Automation Predictive Analytics Innovation distinguishes between a leader and a follower. Load Balancing
 Success is not in what you have, but who you are. Algorithm Optimization React Database Kafka Data Science Quantum Computing Stay hungry, stay foolish.
+Cloud Functions API Logging Replica Set Pull Request Great things never come from comfort zones. Success is not in what you have, but who you are. OAuth Blockchain Kubernetes React Microservices I find that the harder I work, the more luck I seem to have. DNS Routing
