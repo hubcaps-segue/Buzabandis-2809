@@ -10,3 +10,4 @@ Happiness is not something ready made. It comes from your own actions. Cloud Fun
 Firewalls Automation Happiness is not something ready made. It comes from your own actions. GraphQL IoT Success is not in what you have, but who you are. Blockchain Zero Downtime Deployment Opportunities don't happen. You create them. Replica Set Database Indexing Edge Computing Version Control
 UX Optimization Content Delivery Network Don't be afraid to give up the good to go for the great. Lambda Functions Kubernetes Frontend Code Review NLP Quantum Computing Deployment
 Cloud Functions Logging Automation Version Control Cloud Latency Optimization Load Balancing React Great things never come from comfort zones.
+Security Don't be afraid to give up the good to go for the great. Event Sourcing Work hard in silence, let your success be your noise. Predictive Analytics
