@@ -11,3 +11,4 @@ Performance Stay hungry, stay foolish. Security NLP Big Data CI/CD Monitoring La
 I find that the harder I work, the more luck I seem to have. Data Science Don't be afraid to give up the good to go for the great. Logging Backend Success is not in what you have, but who you are. Agile
 Firewalls Event-driven Architecture Algorithm Simplicity is the ultimate sophistication. Replica Set Virtual Machines Zero Downtime Deployment Neural Networks Dream big and dare to fail. Parallel Processing Serverless Innovation distinguishes between a leader and a follower. Testing Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst.
 The only way to do great work is to love what you do. Version Control Agile CI/CD Framework
+Firewalls Database A/B Testing Microservices Act as if what you do makes a difference. It does. API Gateway Docker Security Load Balancing API
