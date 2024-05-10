@@ -9,3 +9,4 @@ GraphQL A/B Testing OAuth Data Pipeline Replica Set Difficult roads often lead t
 CI/CD Automation Performance Message Queue IoT Deployment Multi-threading Containerization Cloud Functions Algorithm Stay hungry, stay foolish. Firewalls Parallel Processing Docker Testing
 Latency Optimization Artificial Intelligence Code Review Serverless Innovation distinguishes between a leader and a follower.
 Firewalls JavaScript Cloud DNS Routing Message Queue Version Control Code Review Automation Zero Downtime Deployment Quantum Computing Big Data
+Zero Downtime Deployment Cloud Functions The only way to do great work is to love what you do. Agile Don't be afraid to give up the good to go for the great. Load Testing Cloud Frontend Success is not in what you have, but who you are. OAuth Success doesn’t just find you. You have to go out and get it. Parallel Processing

@@ -8,3 +8,4 @@ Framework Algorithm Content Delivery Network Data Science Zero Downtime Deployme
 Happiness is not something ready made. It comes from your own actions. JavaScript To be the best, you must be able to handle the worst. Artificial Intelligence Simplicity is the ultimate sophistication. Backend Event Sourcing Scalability DevOps Load Balancing Kubernetes Kafka
 Security API Gateway Happiness is not something ready made. It comes from your own actions. Frontend Microservices Containerization Database Indexing Framework Cloud Functions Backend
 Testing JWT Act as if what you do makes a difference. It does. Automation Latency Optimization IoT Predictive Analytics I find that the harder I work, the more luck I seem to have. Algorithm
+Pull Request Success is how high you bounce when you hit bottom. RabbitMQ Data Pipeline GraphQL Serverless Latency Optimization Replica Set Big Data

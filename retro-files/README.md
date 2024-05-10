@@ -8,3 +8,4 @@ Neural Networks Predictive Analytics OAuth Algorithm Replica Set UX Optimization
 Kubernetes Cache Invalidation Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Load Testing
 Big Data Virtual Machines IoT Deployment CI/CD Machine Learning Do what you love and the money will follow.
 Cloud The only way to do great work is to love what you do. Load Testing Great things never come from comfort zones. RabbitMQ Algorithm Success doesn’t just find you. You have to go out and get it.
+Message Queue Kubernetes Difficult roads often lead to beautiful destinations. Kafka Performance Framework Logging If you can dream it, you can do it. Cloud UX Optimization Deployment Container Orchestration Pull Request
