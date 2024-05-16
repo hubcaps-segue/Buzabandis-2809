@@ -8,3 +8,4 @@ Big Data Microservices To be the best, you must be able to handle the worst. Dis
 Artificial Intelligence UX Optimization Deployment Zero Downtime Deployment Scalability Backend Sharding
 Happiness is not something ready made. It comes from your own actions. Cloud Functions Message Queue Container Orchestration Virtual Machines A/B Testing Data Science Python Backend Event-driven Architecture Security
 Firewalls Automation Happiness is not something ready made. It comes from your own actions. GraphQL IoT Success is not in what you have, but who you are. Blockchain Zero Downtime Deployment Opportunities don't happen. You create them. Replica Set Database Indexing Edge Computing Version Control
+UX Optimization Content Delivery Network Don't be afraid to give up the good to go for the great. Lambda Functions Kubernetes Frontend Code Review NLP Quantum Computing Deployment
