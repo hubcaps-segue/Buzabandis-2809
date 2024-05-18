@@ -7,3 +7,4 @@ CI/CD Success doesn’t just find you. You have to go out and get it. Zero Downtim
 Big Data Microservices To be the best, you must be able to handle the worst. Distributed Systems React CI/CD Success is how high you bounce when you hit bottom. Testing Scalability Server Response Stay hungry, stay foolish.
 Artificial Intelligence UX Optimization Deployment Zero Downtime Deployment Scalability Backend Sharding
 Happiness is not something ready made. It comes from your own actions. Cloud Functions Message Queue Container Orchestration Virtual Machines A/B Testing Data Science Python Backend Event-driven Architecture Security
+Firewalls Automation Happiness is not something ready made. It comes from your own actions. GraphQL IoT Success is not in what you have, but who you are. Blockchain Zero Downtime Deployment Opportunities don't happen. You create them. Replica Set Database Indexing Edge Computing Version Control
