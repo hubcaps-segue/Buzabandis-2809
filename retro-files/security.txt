@@ -9,3 +9,4 @@ React Difficult roads often lead to beautiful destinations. Microservices Firewa
 Version Control Code Review Message Queue Performance Logging
 Lambda Functions Python Success is how high you bounce when you hit bottom. Parallel Processing Containerization Framework Simplicity is the ultimate sophistication. Algorithm Distributed Systems The only way to do great work is to love what you do. GraphQL Database Indexing IoT Security
 Content Delivery Network Don't be afraid to give up the good to go for the great. Neural Networks Virtual Machines JavaScript GraphQL Frontend Kubernetes WebSockets
+Event-driven Architecture Neural Networks Act as if what you do makes a difference. It does. Multi-threading Message Queue Event Sourcing If you can dream it, you can do it. Great things never come from comfort zones. Cache Invalidation Difficult roads often lead to beautiful destinations. JavaScript Backend Do what you love and the money will follow. Edge Computing API

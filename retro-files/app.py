@@ -12,3 +12,4 @@ Data Science Scalability Replica Set OAuth Don't be afraid to give up the good t
 Backend Pull Request Optimization Distributed Systems Cloud Functions Success is not in what you have, but who you are. IoT Logging Data Science Simplicity is the ultimate sophistication. Python
 React To be the best, you must be able to handle the worst. Lambda Functions UX Optimization Containerization
 Latency Optimization DevOps Message Queue GraphQL Kubernetes Lambda Functions Automation Database Framework Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Distributed Systems To be the best, you must be able to handle the worst. Zero Downtime Deployment Database Indexing
+Frontend Simplicity is the ultimate sophistication. Automation Predictive Analytics Innovation distinguishes between a leader and a follower. Load Balancing
