@@ -9,3 +9,4 @@ Big Data Quantum Computing Success is how high you bounce when you hit bottom. V
 Big Data Sharding JavaScript Machine Learning Docker DevOps API OAuth Containerization Agile Logging Backend
 Opportunities don't happen. You create them. RabbitMQ Difficult roads often lead to beautiful destinations. Python Virtual Machines Do what you love and the money will follow. Sharding Performance Monitoring DevOps Scalability
 A/B Testing RabbitMQ API Distributed Systems Agile Firewalls Performance Testing Predictive Analytics Security Backend WebSockets Multi-threading Data Pipeline Success is not in what you have, but who you are.
+Cloud Event Sourcing Code Review Load Balancing Work hard in silence, let your success be your noise. CI/CD DevOps Testing Great things never come from comfort zones. Automation Innovation distinguishes between a leader and a follower.
