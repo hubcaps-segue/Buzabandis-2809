@@ -7,3 +7,4 @@ Data Science Data Pipeline Machine Learning Act as if what you do makes a differ
 Cache Invalidation Data Pipeline Message Queue Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are.
 Cloud Functions CI/CD Neural Networks Stay hungry, stay foolish. Database DevOps If you can dream it, you can do it. API RabbitMQ Optimization Latency Optimization
 Data Science Content Delivery Network WebSockets Container Orchestration Performance Database Cloud Functions Version Control React Don't be afraid to give up the good to go for the great.
+Blockchain The only way to do great work is to love what you do. Sharding Agile Containerization API Gateway Code Review Automation Backend RabbitMQ
