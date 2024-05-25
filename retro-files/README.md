@@ -6,3 +6,4 @@ Message Queue Cache Invalidation Success is not in what you have, but who you ar
 I find that the harder I work, the more luck I seem to have. Agile Distributed Systems Serverless Kafka Kubernetes
 Neural Networks Predictive Analytics OAuth Algorithm Replica Set UX Optimization
 Kubernetes Cache Invalidation Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Load Testing
+Big Data Virtual Machines IoT Deployment CI/CD Machine Learning Do what you love and the money will follow.
