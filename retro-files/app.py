@@ -10,3 +10,4 @@ Distributed Systems UX Optimization Difficult roads often lead to beautiful dest
 Artificial Intelligence Success is how high you bounce when you hit bottom. A/B Testing Dream big and dare to fail. Optimization Great things never come from comfort zones. Content Delivery Network
 Data Science Scalability Replica Set OAuth Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Database
 Backend Pull Request Optimization Distributed Systems Cloud Functions Success is not in what you have, but who you are. IoT Logging Data Science Simplicity is the ultimate sophistication. Python
+React To be the best, you must be able to handle the worst. Lambda Functions UX Optimization Containerization
