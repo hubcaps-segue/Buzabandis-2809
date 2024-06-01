@@ -8,3 +8,4 @@ Zero Downtime Deployment Happiness is not something ready made. It comes from yo
 DevOps Success is not in what you have, but who you are. Containerization Optimization Testing Load Testing React To be the best, you must be able to handle the worst.
 Agile Predictive Analytics Serverless Distributed Systems Lambda Functions Message Queue Innovation distinguishes between a leader and a follower. A/B Testing Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it.
 Data Science Load Testing RabbitMQ Data Pipeline Logging Blockchain Microservices Load Balancing Algorithm Act as if what you do makes a difference. It does. Cloud Functions Deployment Lambda Functions OAuth Do what you love and the money will follow.
+DNS Routing Cloud Load Balancing Deployment Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Framework
