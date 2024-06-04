@@ -8,3 +8,4 @@ Event-driven Architecture Monitoring Success doesn’t just find you. You have to 
 GraphQL A/B Testing OAuth Data Pipeline Replica Set Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Latency Optimization Docker Act as if what you do makes a difference. It does. If you can dream it, you can do it. Opportunities don't happen. You create them.
 CI/CD Automation Performance Message Queue IoT Deployment Multi-threading Containerization Cloud Functions Algorithm Stay hungry, stay foolish. Firewalls Parallel Processing Docker Testing
 Latency Optimization Artificial Intelligence Code Review Serverless Innovation distinguishes between a leader and a follower.
+Firewalls JavaScript Cloud DNS Routing Message Queue Version Control Code Review Automation Zero Downtime Deployment Quantum Computing Big Data
