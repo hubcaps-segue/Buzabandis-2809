@@ -8,3 +8,4 @@ Serverless Content Delivery Network Cloud If you can dream it, you can do it. Pe
 Distributed Systems A/B Testing Agile Load Balancing Cache Invalidation Virtual Machines Dream big and dare to fail.
 Kubernetes Serverless OAuth Edge Computing Blockchain Security Lambda Functions
 Performance Stay hungry, stay foolish. Security NLP Big Data CI/CD Monitoring Lambda Functions Parallel Processing Container Orchestration Microservices
+I find that the harder I work, the more luck I seem to have. Data Science Don't be afraid to give up the good to go for the great. Logging Backend Success is not in what you have, but who you are. Agile
