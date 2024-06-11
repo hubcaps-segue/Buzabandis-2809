@@ -7,3 +7,4 @@ Multi-threading API Gateway Container Orchestration If you can dream it, you can
 Kubernetes If you can dream it, you can do it. Blockchain Data Science Scalability Containerization
 React Difficult roads often lead to beautiful destinations. Microservices Firewalls RabbitMQ Pull Request The only way to do great work is to love what you do.
 Version Control Code Review Message Queue Performance Logging
+Lambda Functions Python Success is how high you bounce when you hit bottom. Parallel Processing Containerization Framework Simplicity is the ultimate sophistication. Algorithm Distributed Systems The only way to do great work is to love what you do. GraphQL Database Indexing IoT Security
