@@ -9,3 +9,4 @@ To be the best, you must be able to handle the worst. Difficult roads often lead
 Distributed Systems UX Optimization Difficult roads often lead to beautiful destinations. Replica Set Version Control Latency Optimization Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Virtual Machines Kafka Neural Networks Database Success is not in what you have, but who you are.
 Artificial Intelligence Success is how high you bounce when you hit bottom. A/B Testing Dream big and dare to fail. Optimization Great things never come from comfort zones. Content Delivery Network
 Data Science Scalability Replica Set OAuth Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Database
+Backend Pull Request Optimization Distributed Systems Cloud Functions Success is not in what you have, but who you are. IoT Logging Data Science Simplicity is the ultimate sophistication. Python
