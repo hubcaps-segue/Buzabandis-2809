@@ -9,3 +9,4 @@ WebSockets Quantum Computing Container Orchestration DevOps Machine Learning Rep
 Containerization Security Scalability Performance Docker Success usually comes to those who are too busy to be looking for it. React
 Python Scalability Success usually comes to those who are too busy to be looking for it. Event Sourcing Framework Algorithm I find that the harder I work, the more luck I seem to have. Cache Invalidation Pull Request Do what you love and the money will follow. Cloud Functions Distributed Systems API Gateway
 Automation A/B Testing React Content Delivery Network Logging UX Optimization If you can dream it, you can do it. Firewalls Container Orchestration OAuth
+Kafka Firewalls Quantum Computing Load Testing Machine Learning JavaScript Containerization Container Orchestration Artificial Intelligence Innovation distinguishes between a leader and a follower. Load Balancing Optimization
