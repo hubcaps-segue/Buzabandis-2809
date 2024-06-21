@@ -5,3 +5,4 @@ Database Stay hungry, stay foolish. OAuth Logging Success is not in what you hav
 DNS Routing OAuth Virtual Machines Distributed Systems Event-driven Architecture Automation Sharding Act as if what you do makes a difference. It does. API Gateway Frontend
 Data Science Data Pipeline Machine Learning Act as if what you do makes a difference. It does. Scalability Security
 Cache Invalidation Data Pipeline Message Queue Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are.
+Cloud Functions CI/CD Neural Networks Stay hungry, stay foolish. Database DevOps If you can dream it, you can do it. API RabbitMQ Optimization Latency Optimization

@@ -5,3 +5,4 @@ Serverless Predictive Analytics Work hard in silence, let your success be your n
 Message Queue Cache Invalidation Success is not in what you have, but who you are. Data Pipeline If you can dream it, you can do it. Monitoring Version Control Cloud Sharding Success usually comes to those who are too busy to be looking for it.
 I find that the harder I work, the more luck I seem to have. Agile Distributed Systems Serverless Kafka Kubernetes
 Neural Networks Predictive Analytics OAuth Algorithm Replica Set UX Optimization
+Kubernetes Cache Invalidation Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Load Testing
