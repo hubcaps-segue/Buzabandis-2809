@@ -12,3 +12,4 @@ Virtual Machines Pull Request DevOps Quantum Computing API Data Pipeline Replica
 Innovation distinguishes between a leader and a follower. Scalability Latency Optimization Dream big and dare to fail. Framework Database Indexing Blockchain API Gateway Simplicity is the ultimate sophistication. Cloud Functions
 Parallel Processing Server Response DNS Routing Lambda Functions API Gateway Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. Cloud Work hard in silence, let your success be your noise. Container Orchestration Content Delivery Network Zero Downtime Deployment Performance Load Balancing Success usually comes to those who are too busy to be looking for it.
 Optimization Container Orchestration Data Pipeline Firewalls Innovation distinguishes between a leader and a follower. Database
+JWT Cloud Server Response Don't be afraid to give up the good to go for the great. JavaScript Data Science Python
