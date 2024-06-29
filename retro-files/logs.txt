@@ -7,3 +7,4 @@ GraphQL Version Control Blockchain RabbitMQ Testing Edge Computing Code Review D
 Frontend Difficult roads often lead to beautiful destinations. Optimization API Gateway Containerization Version Control
 Big Data Quantum Computing Success is how high you bounce when you hit bottom. Virtual Machines Load Testing React Stay hungry, stay foolish.
 Big Data Sharding JavaScript Machine Learning Docker DevOps API OAuth Containerization Agile Logging Backend
+Opportunities don't happen. You create them. RabbitMQ Difficult roads often lead to beautiful destinations. Python Virtual Machines Do what you love and the money will follow. Sharding Performance Monitoring DevOps Scalability
