@@ -7,3 +7,4 @@ DNS Routing Content Delivery Network To be the best, you must be able to handle 
 Serverless Content Delivery Network Cloud If you can dream it, you can do it. Performance Data Science To be the best, you must be able to handle the worst. Pull Request Success usually comes to those who are too busy to be looking for it. Distributed Systems Success is how high you bounce when you hit bottom. Multi-threading Containerization
 Distributed Systems A/B Testing Agile Load Balancing Cache Invalidation Virtual Machines Dream big and dare to fail.
 Kubernetes Serverless OAuth Edge Computing Blockchain Security Lambda Functions
+Performance Stay hungry, stay foolish. Security NLP Big Data CI/CD Monitoring Lambda Functions Parallel Processing Container Orchestration Microservices
