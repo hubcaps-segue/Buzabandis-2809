@@ -5,3 +5,4 @@ Sharding The only way to do great work is to love what you do. Frontend Algorith
 Logging Container Orchestration Multi-threading Algorithm Latency Optimization DevOps Replica Set Agile Frontend Quantum Computing Machine Learning API Gateway Serverless UX Optimization
 CI/CD Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment The only way to do great work is to love what you do. Framework Sharding Testing JavaScript React Virtual Machines Backend Code Review Cloud Functions
 Big Data Microservices To be the best, you must be able to handle the worst. Distributed Systems React CI/CD Success is how high you bounce when you hit bottom. Testing Scalability Server Response Stay hungry, stay foolish.
+Artificial Intelligence UX Optimization Deployment Zero Downtime Deployment Scalability Backend Sharding
