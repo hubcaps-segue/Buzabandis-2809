@@ -2,3 +2,4 @@ JWT Pull Request Cache Invalidation Distributed Systems Performance Machine Lear
 Event-driven Architecture Frontend Quantum Computing If you can dream it, you can do it. GraphQL
 Blockchain Code Review Server Response Big Data Docker I find that the harder I work, the more luck I seem to have. Deployment UX Optimization JWT Automation
 UX Optimization Innovation distinguishes between a leader and a follower. Automation Do what you love and the money will follow. Serverless Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Replica Set OAuth To be the best, you must be able to handle the worst.
+Kafka Success is not in what you have, but who you are. Virtual Machines Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Load Testing Backend Replica Set Monitoring Docker Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. JavaScript
