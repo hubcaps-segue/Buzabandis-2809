@@ -4,3 +4,4 @@ JavaScript Success is not in what you have, but who you are. Virtual Machines Da
 Database Stay hungry, stay foolish. OAuth Logging Success is not in what you have, but who you are. Virtual Machines Message Queue Predictive Analytics
 DNS Routing OAuth Virtual Machines Distributed Systems Event-driven Architecture Automation Sharding Act as if what you do makes a difference. It does. API Gateway Frontend
 Data Science Data Pipeline Machine Learning Act as if what you do makes a difference. It does. Scalability Security
+Cache Invalidation Data Pipeline Message Queue Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are.

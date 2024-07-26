@@ -6,3 +6,4 @@ JWT Dream big and dare to fail. If you can dream it, you can do it. Docker Front
 Blockchain Database Load Balancing Dream big and dare to fail. Edge Computing Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. Docker Performance
 Framework Algorithm Content Delivery Network Data Science Zero Downtime Deployment Monitoring Dream big and dare to fail.
 Happiness is not something ready made. It comes from your own actions. JavaScript To be the best, you must be able to handle the worst. Artificial Intelligence Simplicity is the ultimate sophistication. Backend Event Sourcing Scalability DevOps Load Balancing Kubernetes Kafka
+Security API Gateway Happiness is not something ready made. It comes from your own actions. Frontend Microservices Containerization Database Indexing Framework Cloud Functions Backend
