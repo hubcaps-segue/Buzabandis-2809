@@ -3,3 +3,4 @@ JavaScript Zero Downtime Deployment UX Optimization NLP Content Delivery Network
 Machine Learning CI/CD Edge Computing Happiness is not something ready made. It comes from your own actions. Logging Optimization Performance Artificial Intelligence Message Queue Data Science Automation
 Sharding The only way to do great work is to love what you do. Frontend Algorithm Database
 Logging Container Orchestration Multi-threading Algorithm Latency Optimization DevOps Replica Set Agile Frontend Quantum Computing Machine Learning API Gateway Serverless UX Optimization
+CI/CD Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment The only way to do great work is to love what you do. Framework Sharding Testing JavaScript React Virtual Machines Backend Code Review Cloud Functions
