@@ -2,3 +2,4 @@ Distributed Systems Testing Success usually comes to those who are too busy to b
 JavaScript Zero Downtime Deployment UX Optimization NLP Content Delivery Network Kafka Deployment API DNS Routing Framework
 Machine Learning CI/CD Edge Computing Happiness is not something ready made. It comes from your own actions. Logging Optimization Performance Artificial Intelligence Message Queue Data Science Automation
 Sharding The only way to do great work is to love what you do. Frontend Algorithm Database
+Logging Container Orchestration Multi-threading Algorithm Latency Optimization DevOps Replica Set Agile Frontend Quantum Computing Machine Learning API Gateway Serverless UX Optimization
