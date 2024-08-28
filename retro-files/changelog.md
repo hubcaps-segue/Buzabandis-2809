@@ -3,3 +3,4 @@ NLP JavaScript RabbitMQ Virtual Machines Artificial Intelligence OAuth Neural Ne
 Message Queue UX Optimization Server Response Python Do what you love and the money will follow. WebSockets
 Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Opportunities don't happen. You create them. Testing Logging Success doesn’t just find you. You have to go out and get it. Virtual Machines DevOps JavaScript Data Science
 Content Delivery Network Algorithm GraphQL Security Don't be afraid to give up the good to go for the great. Agile Version Control Framework Parallel Processing
+Zero Downtime Deployment Database Indexing Multi-threading UX Optimization Innovation distinguishes between a leader and a follower. Scalability Edge Computing DNS Routing Neural Networks Machine Learning Performance Kubernetes Cloud
