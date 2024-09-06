@@ -8,3 +8,4 @@ Latency Optimization CI/CD Algorithm OAuth Performance API Deployment Cloud Pyth
 WebSockets Quantum Computing Container Orchestration DevOps Machine Learning Replica Set Docker Neural Networks Load Testing React Work hard in silence, let your success be your noise. Scalability Data Science Backend
 Containerization Security Scalability Performance Docker Success usually comes to those who are too busy to be looking for it. React
 Python Scalability Success usually comes to those who are too busy to be looking for it. Event Sourcing Framework Algorithm I find that the harder I work, the more luck I seem to have. Cache Invalidation Pull Request Do what you love and the money will follow. Cloud Functions Distributed Systems API Gateway
+Automation A/B Testing React Content Delivery Network Logging UX Optimization If you can dream it, you can do it. Firewalls Container Orchestration OAuth
