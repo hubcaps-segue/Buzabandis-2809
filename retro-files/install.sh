@@ -5,3 +5,4 @@ API Serverless Data Pipeline DNS Routing Parallel Processing Happiness is not so
 Predictive Analytics Cloud DevOps Great things never come from comfort zones. Virtual Machines Replica Set
 Machine Learning Blockchain Load Testing Cache Invalidation Event-driven Architecture Content Delivery Network UX Optimization Kubernetes Success is how high you bounce when you hit bottom. Neural Networks Edge Computing
 Machine Learning Sharding Framework Stay hungry, stay foolish. Kafka Algorithm
+Work hard in silence, let your success be your noise. Latency Optimization Performance Success is how high you bounce when you hit bottom. Kafka API Kubernetes Backend Serverless A/B Testing Database Indexing
