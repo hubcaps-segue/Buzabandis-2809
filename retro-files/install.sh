@@ -4,3 +4,4 @@ Algorithm Serverless I find that the harder I work, the more luck I seem to have
 API Serverless Data Pipeline DNS Routing Parallel Processing Happiness is not something ready made. It comes from your own actions. OAuth Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. A/B Testing Multi-threading Work hard in silence, let your success be your noise. WebSockets Performance Act as if what you do makes a difference. It does.
 Predictive Analytics Cloud DevOps Great things never come from comfort zones. Virtual Machines Replica Set
 Machine Learning Blockchain Load Testing Cache Invalidation Event-driven Architecture Content Delivery Network UX Optimization Kubernetes Success is how high you bounce when you hit bottom. Neural Networks Edge Computing
+Machine Learning Sharding Framework Stay hungry, stay foolish. Kafka Algorithm
