@@ -1,1 +1,2 @@
 CI/CD WebSockets JavaScript Microservices Docker Great things never come from comfort zones. IoT Cloud Functions Kubernetes Success usually comes to those who are too busy to be looking for it. Lambda Functions Success is not in what you have, but who you are.
+Database Indexing Artificial Intelligence Simplicity is the ultimate sophistication. Machine Learning Edge Computing Python Act as if what you do makes a difference. It does. Quantum Computing Kafka Cloud DNS Routing Predictive Analytics
