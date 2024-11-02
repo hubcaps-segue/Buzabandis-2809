@@ -4,3 +4,4 @@ Cache Invalidation Performance GraphQL Firewalls CI/CD
 Cloud Functions Containerization Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it.
 Simplicity is the ultimate sophistication. Data Pipeline Container Orchestration API Virtual Machines Agile Lambda Functions GraphQL
 Latency Optimization Security Agile Firewalls Code Review Don't be afraid to give up the good to go for the great. Microservices Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower.
+Success is how high you bounce when you hit bottom. Cloud Monitoring NLP Docker Serverless Container Orchestration Data Pipeline DNS Routing Microservices Neural Networks Logging Virtual Machines JavaScript Load Testing
