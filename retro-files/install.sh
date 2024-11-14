@@ -2,3 +2,4 @@ Serverless Event-driven Architecture Simplicity is the ultimate sophistication. 
 Framework Cloud Functions Containerization Microservices Cloud Performance
 Algorithm Serverless I find that the harder I work, the more luck I seem to have. Optimization Big Data Microservices Sharding Don't be afraid to give up the good to go for the great.
 API Serverless Data Pipeline DNS Routing Parallel Processing Happiness is not something ready made. It comes from your own actions. OAuth Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. A/B Testing Multi-threading Work hard in silence, let your success be your noise. WebSockets Performance Act as if what you do makes a difference. It does.
+Predictive Analytics Cloud DevOps Great things never come from comfort zones. Virtual Machines Replica Set
