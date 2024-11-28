@@ -1,3 +1,4 @@
 DNS Routing Cache Invalidation Opportunities don't happen. You create them. Replica Set Success is how high you bounce when you hit bottom.
 Optimization Latency Optimization DevOps DNS Routing JWT
 Act as if what you do makes a difference. It does. Kubernetes Latency Optimization Data Science Big Data Backend CI/CD Firewalls
+React To be the best, you must be able to handle the worst. DevOps Don't be afraid to give up the good to go for the great. Deployment Virtual Machines WebSockets Version Control API Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Parallel Processing Kubernetes Data Science Data Pipeline
