@@ -1,1 +1,2 @@
 Distributed Systems Testing Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Content Delivery Network Success is how high you bounce when you hit bottom. Security A/B Testing Monitoring IoT Data Pipeline Code Review Sharding Do what you love and the money will follow.
+JavaScript Zero Downtime Deployment UX Optimization NLP Content Delivery Network Kafka Deployment API DNS Routing Framework
