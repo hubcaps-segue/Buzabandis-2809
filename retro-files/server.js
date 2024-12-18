@@ -1,3 +1,4 @@
 Happiness is not something ready made. It comes from your own actions. Monitoring Machine Learning API Virtual Machines To be the best, you must be able to handle the worst. Server Response Security Don't be afraid to give up the good to go for the great.
 Logging Kubernetes Success is how high you bounce when you hit bottom. React Lambda Functions IoT Cloud Functions Testing Server Response Load Testing OAuth Framework
 Code Review Big Data Simplicity is the ultimate sophistication. Security Quantum Computing Success doesn’t just find you. You have to go out and get it. Cloud The only way to do great work is to love what you do.
+Code Review Do what you love and the money will follow. Database Indexing Framework Virtual Machines Logging API I find that the harder I work, the more luck I seem to have. Backend WebSockets Great things never come from comfort zones. Deployment
