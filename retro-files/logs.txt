@@ -1,1 +1,2 @@
 DNS Routing Cache Invalidation Opportunities don't happen. You create them. Replica Set Success is how high you bounce when you hit bottom.
+Optimization Latency Optimization DevOps DNS Routing JWT
