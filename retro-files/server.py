@@ -1,1 +1,2 @@
 JavaScript Security Replica Set Testing Load Balancing GraphQL Database Dream big and dare to fail.
+CI/CD Success doesn’t just find you. You have to go out and get it. Security Parallel Processing Stay hungry, stay foolish. Data Science Event-driven Architecture Backend Work hard in silence, let your success be your noise. Agile Success is how high you bounce when you hit bottom. Serverless Success usually comes to those who are too busy to be looking for it. OAuth Happiness is not something ready made. It comes from your own actions.
